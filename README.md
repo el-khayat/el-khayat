@@ -24,9 +24,20 @@ Here on my GitHub profile, you will find a collection of my personal projects an
 
 Here are some of my highlighted projects:
 
-- **Project 1**: A brief description of the project, what it does, and what technologies were used.
+- **JOB STUDENT** : Create a web application to find a job for students who want to work in parallel
+with their studies
 
-- **Project 2**: A brief description of the project, what it does, and what technologies were used.
+**·** Skills: React.js · Redux.js · REST APIs · JavaScript · Node.js · Express.js · MYSQL · UML
+
+- **Deep Learning Age Detection Project** : I created a deep learning project centered on age detection for people as
+part of my academic work and personal projects. The goal of this
+experiment was to precisely estimate a person's age using face pictures. I
+was able to successfully create and execute a reliable age identification
+model by utilizing cutting-edge deep learning techniques and computer
+vision algorithms.
+
+**·** Skills: Python · OpenCV · KINTER
+
 
 And more! Feel free to check out my full list of projects for more.
 
@@ -34,12 +45,21 @@ And more! Feel free to check out my full list of projects for more.
 
 In addition to my personal projects, I am also actively involved in contributing to open-source projects. Here are some of the projects I have contributed to:
 
-- **Project A**: A brief description of the project and my contributions to it.
+- **stock management (e-commerce app)** : Create a stock management system to control products in the store
+  
+**·** Skills: Java · SPRING· HIBERNATE· JSF · JAVASCRIPT · HTML · CSS
 
-- **Project B**: A brief description of the project and my contributions to it.
+
+- **Multitasking app** : Create a distributed task scheduling system utilizing sockets for communication,
+multithreading for concurrent execution, and remote method invocation for
+client-server interaction. The system should allow multiple clients to connect to
+a server, submit tasks for execution and receive the results concurrently, with
+the tasks being executed on the server.
+
+**·** Skills: Java · Sockets · Multithreading · Remote Method Invocation ·Java Swing
 
 ## Get in Touch
 
-If you have any questions or would like to work together on a project, don't hesitate to reach out! You can find my contact information on my GitHub profile or send me an email at [myemail@example.com](mailto:myemail@example.com).
+If you have any questions or would like to work together on a project, don't hesitate to reach out! You can find my contact information on my GitHub profile or send me an email at [mohamed.elkhayat5@etu.uae.ac.ma](mailto:mohamed.elkhayat5@etu.uae.ac.ma).
 
 Thanks for visiting my profile!
